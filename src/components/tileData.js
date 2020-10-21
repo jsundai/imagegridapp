@@ -14,6 +14,10 @@ const tileData = [
       featured: true,
     },
     {
+      img: 'https://images.pexels.com/photos/1181519/pexels-photo-1181519.jpeg?auto=compress&cs=tinysrgb&h=350',
+      title: 'Jay Chapman',
+    },
+    {
       img: 'https://images.unsplash.com/photo-1543610892-0b1f7e6d8ac1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
       title: 'Hebe Harwood',
     },
@@ -25,10 +29,6 @@ const tileData = [
     {
       img: 'https://uifaces.co/our-content/donated/gPZwCbdS.jpg',
       title: 'Leonardo Davila',
-    },
-    {
-      img: 'https://images.pexels.com/photos/1181519/pexels-photo-1181519.jpeg?auto=compress&cs=tinysrgb&h=350',
-      title: 'Hayleigh Chapman',
     },
     {
       img: 'https://images.pexels.com/photos/1394499/pexels-photo-1394499.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
@@ -44,7 +44,7 @@ const tileData = [
     },
     {
       img: 'https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&h=350',
-      title: 'Corinne Mcghee',
+      title: 'Corin Mcghee',
     },
     {
       img: 'https://images.pexels.com/photos/1858175/pexels-photo-1858175.jpeg?auto=compress&cs=tinysrgb&h=350',
