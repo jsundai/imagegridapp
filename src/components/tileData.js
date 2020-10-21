@@ -13,12 +13,12 @@ const tileData = [
       title: 'Hebe Harwood',
     },
     {
-      img: 'https://images.unsplash.com/photo-1520813792240-56fc4a3765a7?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=200&fit=max&ixid=eyJhcHBfaWQiOjE3Nzg0fQ',
-      title: 'Cobie Morin',
-    },
-    {
       img: 'https://images.pexels.com/photos/1181519/pexels-photo-1181519.jpeg?auto=compress&cs=tinysrgb&h=350',
       title: 'Jay Chapman',
+    },
+    {
+      img: 'https://images.unsplash.com/photo-1520813792240-56fc4a3765a7?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=200&fit=max&ixid=eyJhcHBfaWQiOjE3Nzg0fQ',
+      title: 'Cobie Morin',
     },
     {
       img: 'https://uifaces.co/our-content/donated/KtCFjlD4.jpg',
