@@ -39,7 +39,7 @@ const tileData = [
     },
     {
       img: 'https://images.pexels.com/photos/1858175/pexels-photo-1858175.jpeg?auto=compress&cs=tinysrgb&h=350',
-      title: 'Ali Hendricks',
+      title: 'Ali Hendricks ',
     },
   ];
   
