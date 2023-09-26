@@ -26,14 +26,6 @@ const tileData = [
       featured: true,
     },
     {
-      img: 'https://images.unsplash.com/photo-1522529599102-193c0d76b5b6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2370&q=80',
-      title: 'Keanu Hood',
-    },
-    {
-      img: 'https://images.unsplash.com/photo-1600878459108-617a253537e9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTJ8fHByb2Zlc3Npb25hbCUyMG1hbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60',
-      title: 'Leonardo Davila',
-    },
-    {
       img: 'https://images.pexels.com/photos/1394499/pexels-photo-1394499.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
       title: 'Reema Daniel',
     },
